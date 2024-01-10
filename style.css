@@ -1,0 +1,44 @@
+.list,
+.bullet,
+.dishes{
+    font-family: "verdana", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.list{
+    color: hsl(117, 11%, 57%);
+}
+
+.bullet,
+.description{
+    color: #52664e;
+}
+
+.description{
+    font-family: "Copperplate";
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.header,
+.titles{
+    color: #13145c;
+    background-color: hsl(56,42%,93%);
+}
+
+.header{
+    font-family: "Arial", sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+}
+
+.second-header{
+    font-family: "Copperplate", sans-serif;
+    font-size: 20px;
+    color: rgb(94,100,138);
+}
+
+.dishes{
+    color: #13145c;
+}
